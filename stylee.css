@@ -1,0 +1,70 @@
+body {
+  
+  --transition-delay: 0.5s;
+ 
+  background-color: var(--background-color);
+  
+  transition: var(--transition-delay);
+}
+
+
+
+
+
+
+
+
+button {
+position:absolute;
+top:45%;
+left: 50%;
+font-size: 30px;
+/*border: 5px;*/
+background: white ;
+color: black; 
+}
+
+/*.white {
+  background-color: white;
+}*/
+
+.red {
+--background-color: #FF8080;
+
+}
+
+.orange {
+background-color: #FFBD80;
+}
+
+.yellow {
+background-color: #FFF280;
+
+}
+
+.green {
+background-color: #B8FF80;
+
+}
+
+.blue{
+background-color: #80F7FF;
+}
+
+.darkblue{
+background-color: #80B2FF;
+}
+
+.purple{
+background-color: #D680FF;
+}
+
+.pink{
+  background-color: #FF80CC;
+}
+
+
+
+
+
+
